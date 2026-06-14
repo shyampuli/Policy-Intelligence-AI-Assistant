@@ -258,19 +258,6 @@ http://localhost:8501
 
 
 
-
----
-
-# 🎥 Demo Video
-
-Demo Video Link:
-
-```text
-Add Demo Video URL Here
-```
-
----
-
 # Business Impact
 
 The solution enables organizations to:
