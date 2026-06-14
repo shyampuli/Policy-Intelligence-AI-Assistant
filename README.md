@@ -232,23 +232,32 @@ http://localhost:8501
 
 ## Dashboard
 
-(Add screenshot)
+<img width="2474" height="1300" alt="Screenshot 2026-06-14 194357" src="https://github.com/user-attachments/assets/1780f741-eca4-4a2c-a5fb-96f5f8aa4291" />
 
 ## Risk Analysis
 
-(Add screenshot)
+<img width="2502" height="1232" alt="Screenshot 2026-06-14 194423" src="https://github.com/user-attachments/assets/da288238-c65f-4550-a34b-e9dbc7dd1af0" />
+<img width="2472" height="1320" alt="Screenshot 2026-06-14 194511" src="https://github.com/user-attachments/assets/8d2474ab-0b5b-4e90-a7b6-d82a4c3a28fe" />
+
 
 ## Executive Summary
 
-(Add screenshot)
+<img width="2468" height="1272" alt="Screenshot 2026-06-14 194553" src="https://github.com/user-attachments/assets/c154cdec-deb3-48a4-a677-08c5d3d8ae0b" />
+
 
 ## Compliance Copilot
 
-(Add screenshot)
+<img width="2458" height="1276" alt="Screenshot 2026-06-14 194817" src="https://github.com/user-attachments/assets/b9e6f585-f5f8-441c-b6c4-9022c13ddad9" />
+
 
 ## PDF Report
 
-(Add screenshot)
+<img width="2472" height="320" alt="Screenshot 2026-06-14 195249" src="https://github.com/user-attachments/assets/43be59f1-54f3-4534-9353-8a9d87ee365f" />
+<img width="936" height="1236" alt="Screenshot 2026-06-14 195750" src="https://github.com/user-attachments/assets/1d318747-462f-40f5-b038-4caf230bb3cf" />
+<img width="950" height="1298" alt="Screenshot 2026-06-14 195810" src="https://github.com/user-attachments/assets/338f4f97-8134-4b99-978c-9fc2ba6d7be5" />
+
+
+
 
 ---
 
