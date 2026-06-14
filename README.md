@@ -1,7 +1,7 @@
-📄 Policy Intelligence Assistant
+📄 Policy Intelligence AI Assistant
 ================================
 
-🚀 Overview
+Overview
 -----------
 
 Policy Intelligence Assistant is an AI-powered document comparison platform that helps organizations analyze differences between legacy and modernized policy documents, identify compliance risks, understand regulatory impact, and generate executive-level summaries.
@@ -10,7 +10,7 @@ The solution automates policy review workflows by leveraging AI, semantic compar
 
 Built as part of the **AMD x TCS Hackathon 2026**, the solution runs on **AMD Instinct MI300X GPUs** using the **ROCm AI ecosystem**.
 
-🎯 Problem Statement
+Problem Statement
 ====================
 
 Organizations frequently update internal policies to align with changing business requirements, security standards, and regulatory frameworks.
@@ -46,10 +46,10 @@ There is a need for an intelligent system that can:
 
 Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   Legacy Policy PDF          │          ▼  PDF Text Extraction          │          ▼  Section Detection & Parsing          │          ▼  Policy Comparison Engine          │          ▼  Risk Classification          │          ▼  AI Impact Analysis          │          ▼  Executive Summary Generator          │          ▼  Compliance Copilot Chatbot          │          ▼  PDF Report Generation   `
 
-⚙️ Key Features
+Key Features
 ===============
 
-### 📑 Policy Comparison
+### Policy Comparison
 
 *   Upload legacy and modernized policy PDFs
     
@@ -58,7 +58,7 @@ Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQL
 *   Similarity scoring
     
 
-### ⚠️ Risk Classification
+### Risk Classification
 
 Categorizes policy changes as:
 
@@ -69,7 +69,7 @@ Categorizes policy changes as:
 *   Low Risk
     
 
-### 📊 Interactive Dashboard
+### Interactive Dashboard
 
 *   Risk metrics
     
@@ -78,7 +78,7 @@ Categorizes policy changes as:
 *   Risk distribution charts
     
 
-### 🤖 AI Compliance Copilot
+### AI Compliance Copilot
 
 Ask natural language questions such as:
 
@@ -89,7 +89,7 @@ Ask natural language questions such as:
 *   What compliance actions are recommended?
     
 
-### 📝 Executive Summary
+### Executive Summary
 
 Generates management-ready summaries covering:
 
@@ -102,7 +102,7 @@ Generates management-ready summaries covering:
 *   Recommendations
     
 
-### 📄 PDF Report Generation
+### PDF Report Generation
 
 Download a professional analysis report containing:
 
@@ -115,7 +115,7 @@ Download a professional analysis report containing:
 *   Executive summary
     
 
-🛠️ Tech Stack
+Tech Stack
 ==============
 
 Frontend
@@ -170,12 +170,12 @@ Infrastructure
 *   AMD Developer Cloud
     
 
-📂 Project Structure
+Project Structure
 ====================
 
 Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   policy-assistant/  │  ├── app.py  │  ├── utils/  │   ├── pdf_reader.py  │   ├── section_splitter.py  │   ├── comparator.py  │   ├── impact_analyzer.py  │   └── report_generator.py  │  ├── requirements.txt  │  └── README.md   `
 
-▶️ How To Run
+How To Run
 =============
 
 1\. Clone Repository
@@ -216,7 +216,7 @@ Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQL
 
 Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   http://localhost:8501   `
 
-📸 Screenshots
+Screenshots
 ==============
 
 Dashboard
@@ -244,14 +244,14 @@ PDF Report
 
 (Add screenshot)
 
-🎥 Demo Video
+Demo Video
 =============
 
 Demo Video Link:
 
 Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   Add Demo Video URL Here   `
 
-📈 Business Impact
+Business Impact
 ==================
 
 The solution enables organizations to:
@@ -267,7 +267,7 @@ The solution enables organizations to:
 *   Improve decision-making with AI-driven insights
     
 
-🔮 Future Enhancements
+Future Enhancements
 ======================
 
 *   Multi-document comparison
@@ -283,7 +283,7 @@ The solution enables organizations to:
 *   Real-time collaboration features
     
 
-👥 Team
+Team
 =======
 
 ### Team Name
@@ -299,7 +299,7 @@ team-642
 *   Add Team Member
     
 
-🏆 AMD x TCS Hackathon 2026
+AMD x TCS Hackathon 2026
 ===========================
 
 Built using AMD Instinct MI300X GPUs and ROCm software stack as part of the AMD x TCS Hackathon challenge:
